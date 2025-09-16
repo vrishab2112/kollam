@@ -1,0 +1,10 @@
+{
+  "num_points": 1685,
+  "length": 1935.6728795320919,
+  "rotation_deg_best": 135.0,
+  "grid_spacing": 2.2391714737574,
+  "grid_snap_error": 0.24621411235738433,
+  "symmetry_rot90_error": 0.2045298908938325,
+  "symmetry_mirror_x_error": 0.0,
+  "symmetry_mirror_y_error": 0.0011869436201771915
+}
